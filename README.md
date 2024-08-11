@@ -25,14 +25,13 @@
 ## 🔍 Few-Shot Learning
 
 **Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* \ 
-[ECCV, 2020][[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58526-6_45)] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)]
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58526-6_45)] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)]
 
 
-**Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
-*Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
-[3rd Aug, 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
+**‘Squeeze & Excite’ Guided Few-Shot Segmentation of Volumetric Images** \
+*Abhijit Guha Roy, Shayan Siddiqui, Sebastian Pölsterl,  Nassir Navab, and Christian Wachinger* <br>
+[MIA, 2020] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841519301276)] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://www.github.com/abhi4ssj/few-shot-segmentation)]
 
 
 
