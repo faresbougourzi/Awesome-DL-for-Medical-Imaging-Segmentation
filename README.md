@@ -3,7 +3,7 @@
 
 ## Contents
 - [Related Surveys](#related-surveys)
-- [Few-Shot Learning](#few-shot-learning)
+- [Few-Shot Learning](#few--shot-learning)
 
 
 
