@@ -25,9 +25,9 @@
 ## 🔍 Few-Shot Learning
 
 **Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* \
-[30th Aug, 2023] [ECCV, 2020]<br>
-[[Paper](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/ZiyunLiang/MMCCD)]
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* \ 
+[ECCV, 2020][[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58526-6_45)] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)]
+
 
 **Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
 *Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
