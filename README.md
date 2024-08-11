@@ -3,7 +3,7 @@
 
 ## Contents
 - [Related Surveys](#related-surveys)
-- [Few-Shot Learning](#few-shot-learning)
+- [Few-Shot Learning](#-few-shot-learning)
   - [Generative Adversarial Nets (GANs)](#generative-adversarial-nets-gans)
   - [Diffusion Models](#diffusion-models)
   - [Variational Auto-encoders](#variational-auto-encoders)
