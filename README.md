@@ -23,6 +23,28 @@
 
 
 <!--- Theory --->
+## 🔍 Generative Models
+**Deep Adversarial Networks for Biomedical Image Segmentation Utilizing Unannotated Images** \
+*Yizhe Zhang, Lin Yang, Jianxu Chen, Maridel Fredericksen,David P. Hughes, and Danny Z. Chen* <br>
+[MICCAI, 2017] [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_47)] [[ArXiv](https://www.researchgate.net/profile/Yizhe-Zhang-11/publication/319460791_Deep_Adversarial_Networks_for_Biomedical_Image_Segmentation_Utilizing_Unannotated_Images/links/59c9163fa6fdccc71929d61b/Deep-Adversarial-Networks-for-Biomedical-Image-Segmentation-Utilizing-Unannotated-Images.pdf)]
+
+**Spine-GAN: Semantic segmentation of multiple spinal structures** \
+*Zhongyi Hana, Benzheng Wei, Ashley Mercado, Stephanie Leung, and Shuo Li* <br>
+[MIA, 2018] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S136184151830642X)] [[ArXiv](https://drive.google.com/file/d/1CwXjadj3GHzjGQ6ox76TgOit3UQ8AvPu/view)] [[Github](https://github.com/zhyhan/Spine-GAN/)]
+
+**S** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+**S** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+
+
+
+
+<!--- Few-Shot Learning --->
 ## 🔍 Few-Shot Learning
 
 **Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation** \
@@ -51,23 +73,7 @@
 
 
 
-## 🔍 Generative Models
 
-**Deep Adversarial Networks for Biomedical Image Segmentation Utilizing Unannotated Images** \
-*Yizhe Zhang, Lin Yang, Jianxu Chen, Maridel Fredericksen,David P. Hughes, and Danny Z. Chen* <br>
-[MICCAI, 2017] [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_47)] [[ArXiv](https://www.researchgate.net/profile/Yizhe-Zhang-11/publication/319460791_Deep_Adversarial_Networks_for_Biomedical_Image_Segmentation_Utilizing_Unannotated_Images/links/59c9163fa6fdccc71929d61b/Deep-Adversarial-Networks-for-Biomedical-Image-Segmentation-Utilizing-Unannotated-Images.pdf)]
-
-**S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
-
-**S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
-
-**S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
 
 
 
