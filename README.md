@@ -3,6 +3,7 @@
 
 ## Contents
 - [Related Surveys](#related-surveys)
+- [Generative Models](#-generative-models)
 - [Few-Shot Learning](#-few-shot-learning)
 
 
@@ -39,6 +40,26 @@
 **Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation** \
 *Huisi Wu, Fangyan Xiao, and Chongxin Liang* <br>
 [ECCV, 2022] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_24)] [[Github](https://github.com/cvszusparkle/AAS-DCL_FSS)]
+
+**S** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+**S** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+
+
+## 🔍 Generative Models
+
+**Deep Adversarial Networks for Biomedical Image Segmentation Utilizing Unannotated Images** \
+*Yizhe Zhang, Lin Yang, Jianxu Chen, Maridel Fredericksen,David P. Hughes, and Danny Z. Chen* <br>
+[MICCAI, 2017] [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_47)] [[ArXiv](https://www.researchgate.net/profile/Yizhe-Zhang-11/publication/319460791_Deep_Adversarial_Networks_for_Biomedical_Image_Segmentation_Utilizing_Unannotated_Images/links/59c9163fa6fdccc71929d61b/Deep-Adversarial-Networks-for-Biomedical-Image-Segmentation-Utilizing-Unannotated-Images.pdf)]
+
+**S** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
 
 **S** \
 *Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
