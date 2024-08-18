@@ -28,6 +28,10 @@
 *Yizhe Zhang, Lin Yang, Jianxu Chen, Maridel Fredericksen,David P. Hughes, and Danny Z. Chen* <br>
 [MICCAI, 2017] [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_47)] [[ArXiv](https://www.researchgate.net/profile/Yizhe-Zhang-11/publication/319460791_Deep_Adversarial_Networks_for_Biomedical_Image_Segmentation_Utilizing_Unannotated_Images/links/59c9163fa6fdccc71929d61b/Deep-Adversarial-Networks-for-Biomedical-Image-Segmentation-Utilizing-Unannotated-Images.pdf)]
 
+**Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network** \
+*Zizhao Zhang, Lin Yang, and Yefeng Zheng* <br>
+[CVPR, 1018] [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Translating_and_Segmenting_CVPR_2018_paper.pdf)] 
+
 **Spine-GAN: Semantic segmentation of multiple spinal structures** \
 *Zhongyi Hana, Benzheng Wei, Ashley Mercado, Stephanie Leung, and Shuo Li* <br>
 [MIA, 2018] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S136184151830642X)] [[ArXiv](https://drive.google.com/file/d/1CwXjadj3GHzjGQ6ox76TgOit3UQ8AvPu/view)] [[Github](https://github.com/zhyhan/Spine-GAN/)]
