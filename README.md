@@ -36,6 +36,11 @@
 *Zhongyi Hana, Benzheng Wei, Ashley Mercado, Stephanie Leung, and Shuo Li* <br>
 [MIA, 2018] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S136184151830642X)] [[ArXiv](https://drive.google.com/file/d/1CwXjadj3GHzjGQ6ox76TgOit3UQ8AvPu/view)] [[Github](https://github.com/zhyhan/Spine-GAN/)]
 
+**SynSeg-Net: Synthetic Segmentation Without Target Modality Ground Truth** \
+*Yuankai Huo, Zhoubing Xu, Hyeonsoo Moon et al.* <br>
+[TMI, 2018] [[Paper](https://ieeexplore.ieee.org/abstract/document/8494797)] [[ArXiv](https://arxiv.org/abs/1810.06498)] [[Github](https://github.com/MASILab/SynSeg-Net)]
+
+
 **S** \
 *Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
 [ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
