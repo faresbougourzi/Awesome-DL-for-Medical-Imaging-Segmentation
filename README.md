@@ -40,6 +40,14 @@
 *Yuankai Huo, Zhoubing Xu, Hyeonsoo Moon et al.* <br>
 [TMI, 2018] [[Paper](https://ieeexplore.ieee.org/abstract/document/8494797)] [[ArXiv](https://arxiv.org/abs/1810.06498)] [[Github](https://github.com/MASILab/SynSeg-Net)]
 
+**Deep Adversarial Training for Multi-Organ Nuclei Segmentation in Histopathology Images** \
+*Faisal Mahmood, Daniel Borders, Richard Chen et al.* <br>
+[TMI, 2019] [[Paper](https://ieeexplore.ieee.org/abstract/document/8756037/)] [[ArXiv](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8588951/)] [[Github](github.com/faisalml/NucleiSegmentation)]
+
+**S** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
+
 
 **S** \
 *Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
