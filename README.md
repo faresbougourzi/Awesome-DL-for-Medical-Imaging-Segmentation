@@ -44,9 +44,9 @@
 *Faisal Mahmood, Daniel Borders, Richard Chen et al.* <br>
 [TMI, 2019] [[Paper](https://ieeexplore.ieee.org/abstract/document/8756037/)] [[ArXiv](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8588951/)] [[Github](https://github.com/faisalml/NucleiSegmentation)]
 
-**S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
+**Data augmentation using generative adversarial networks (CycleGAN) to improve generalizability in CT segmentation tasks** \
+*Veit Sandfort , Ke Yan, perry J. pickhardt, and Ronald M. Summers* <br>
+[SR, 2019] [[Paper](https://www.nature.com/articles/s41598-019-52737-x)] [[Github](https://github.com/hansen7/CT_Contrast_CycleGAN)]
 
 
 **S** \
