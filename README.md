@@ -48,6 +48,13 @@
 *Veit Sandfort , Ke Yan, perry J. pickhardt, and Ronald M. Summers* <br>
 [SR, 2019] [[Paper](https://www.nature.com/articles/s41598-019-52737-x)] [[Github](https://github.com/hansen7/CT_Contrast_CycleGAN)]
 
+**Self-Supervised Vessel Segmentation via Adversarial Learning** \
+*Yuxin Ma, Yang Hua, Hanming Deng, Tao Song, Hao Wang, Zhengui Xue, Heng Cao, Ruhui Ma, Haibing Guan* <br>
+[ICCV, 2021] [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ma_Self-Supervised_Vessel_Segmentation_via_Adversarial_Learning_ICCV_2021_paper.html)] [[ArXiv](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_Self-Supervised_Vessel_Segmentation_via_Adversarial_Learning_ICCV_2021_paper.pdf)] [[Github](https://github.com/AISIGSJTU/SSVS)]
+
+**Diffusion adversarial representation learning for self-supervised vessel segmentation** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ICLR, 2023] [[Paper](https://openreview.net/forum?id=H0gdPxSwkPb)] [[ArXiv](https://arxiv.org/pdf/2209.14566)] [[Github](https://openreview.net/forum?id=H0gdPxSwkPb)]
 
 **S** \
 *Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
