@@ -56,13 +56,9 @@
 *Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
 [ICLR, 2023] [[Paper](https://openreview.net/forum?id=H0gdPxSwkPb)] [[ArXiv](https://arxiv.org/pdf/2209.14566)] [[Github](https://openreview.net/forum?id=H0gdPxSwkPb)]
 
-**S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
-
-**S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
+**C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation** \
+*Boah Kim, Yujin Oh, Bradford J. Wood, Ronald M. Summers, and Jong Chul Ye* <br>
+[MIA, 2024] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002827)] [[ArXiv](https://arxiv.org/pdf/2308.00193)] [[Github](https://github.com/boahK/MEDIA_CDARL)]
 
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yehui Yang, Haoyi Xiong, Huiying Liu, and Yanwu Xu* <br>
@@ -73,7 +69,13 @@
 [AAAI, 2024] [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28418)] [[ArXiv](https://ojs.aaai.org/index.php/AAAI/article/view/28418)] [[Github](https://github.com/MedicineToken/MedSegDiff)]
 
 
+**S** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
 
+**S** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
 
 
 <!--- Few-Shot Learning --->
