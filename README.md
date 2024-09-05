@@ -64,6 +64,14 @@
 *Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
 [ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
 
+**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
+*Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yehui Yang, Haoyi Xiong, Huiying Liu, and Yanwu Xu* <br>
+[MLR, 2024] [[Paper](https://proceedings.mlr.press/v227/wu24a.html)] [[ArXiv](https://proceedings.mlr.press/v227/wu24a/wu24a.pdf)] [[Github](https://github.com/MedicineToken/MedSegDiff)]
+
+**MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
+*Junde Wu, Wei Ji, Huazhu Fu, Min Xu, Yueming Jin, and Yanwu Xu* <br>
+[AAAI, 2024] [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28418)] [[ArXiv](https://ojs.aaai.org/index.php/AAAI/article/view/28418)] [[Github](https://github.com/MedicineToken/MedSegDiff)]
+
 
 
 
