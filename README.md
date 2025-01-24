@@ -6,6 +6,7 @@
 - [Generative Models](#-generative-models)
 - [Few-Shot Learning](#-few-shot-learning)
 - [Foundation Models](#-foundation-models)
+- [Universal Models](#-universal-models)
 
 
 
