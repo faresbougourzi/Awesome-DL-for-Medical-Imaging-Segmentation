@@ -104,21 +104,53 @@
 <!--- Few-Shot Learning --->
 ## 🔍 Few-Shot Learning
 
-**Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58526-6_45)] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)]
 
-**‘Squeeze & Excite’ Guided Few-Shot Segmentation of Volumetric Images** \
-*Abhijit Guha Roy, Shayan Siddiqui, Sebastian Pölsterl,  Nassir Navab, and Christian Wachinger* <br>
-[MIA, 2020] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841519301276)] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://www.github.com/abhi4ssj/few-shot-segmentation)]
+**Prototype Correlation Matching and Class-Relation Reasoning for Few-Shot Medical Image Segmentation** \
+*Yumin Zhang, Hongliu Li, Yajun Gao, Haoran Duan, Yawen Huang, and Yefeng Zheng* <br>
+[TMI, 2024] [[Paper](https://ieeexplore.ieee.org/abstract/document/10553387)] [[ArXiv](https://arxiv.org/pdf/2406.05054)] 
+
+**Rethinking Few-Shot Medical Segmentation: A Vector Quantization View** \
+*Shiqi Huang, Tingfa Xu, Ning Shen, Feng Mu, and Jianan Li* <br>
+[CVPR, 2023] [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Rethinking_Few-Shot_Medical_Segmentation_A_Vector_Quantization_View_CVPR_2023_paper.html?ref=https://githubhelp.com)]
+
+**Learning what and where to segment: A new perspective on medical image few-shot segmentation** \
+*Yong Feng, Yonghuai Wang, Honghe Li, Mingjun Qu, Jinzhu Yang* <br>
+[MIA, 2023] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523000944)] [[Github](https://github.com/warmestwind/RAPNet)]
+
+**Prototypical few-shot segmentation for cross-institution male pelvic structures with spatial registration** \
+*Yiwen Li, Yunguan Fu, Iani J.M.B. Gayo et al.* <br>
+[MIA, 2023] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523001950)] [[Github](https://github.com/kate-sann5100/CrossInstitutionFewShotSegmentation)]
+
+**Few Shot Medical Image Segmentation with Cross Attention Transformer** \
+*Yi Lin, Yufan Chen, Kwang-Ting Cheng, and Hao Chen* <br>
+[MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_22)] [[ArXiv](https://arxiv.org/pdf/2303.13867)] [[Github](https://github.com/hust-linyi/CAT-Net)]
+
+**Anomaly detection-inspired few-shot medical image segmentation through self-supervision with supervoxels** \
+*Stine Hansen, Srishti Gautam, Robert Jenssen, Michael Kampffmeyer* <br>
+[MIA, 2022] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841522000378)] [[Github](https://github.com/sha168/ADNet)]
+
+
+**Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation** \
+*Huisi Wu, Fangyan Xiao, and Chongxin Liang* <br>
+[ECCV, 2022] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_24)] [[Github](https://github.com/cvszusparkle/AAS-DCL_FSS)]
 
 **Recurrent Mask Refinement for Few-Shot Medical Image Segmentation** \
 *Hao Tang, Xingwei Liu, Shanlin Sun, Xiangyi Yan, and Xiaohui Xie* <br>
 [ICCV, 2021] [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Tang_Recurrent_Mask_Refinement_for_Few-Shot_Medical_Image_Segmentation_ICCV_2021_paper.pdf)] [[Github](https://github.com/uci-cbcl/RP-Net)]
 
-**Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation** \
-*Huisi Wu, Fangyan Xiao, and Chongxin Liang* <br>
-[ECCV, 2022] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_24)] [[Github](https://github.com/cvszusparkle/AAS-DCL_FSS)]
+**‘Squeeze & Excite’ Guided Few-Shot Segmentation of Volumetric Images** \
+*Abhijit Guha Roy, Shayan Siddiqui, Sebastian Pölsterl,  Nassir Navab, and Christian Wachinger* <br>
+[MIA, 2020] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841519301276)] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://www.github.com/abhi4ssj/few-shot-segmentation)]
+
+**Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation** \
+*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+[ECCV, 2020] [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58526-6_45)] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)]
+
+
+
+
+
+
 
 **S** \
 *Cheng* <br>
