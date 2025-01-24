@@ -68,7 +68,7 @@
 
 **Diffusion adversarial representation learning for self-supervised vessel segmentation** \
 *Boah Kim, Yujin Oh, and Jong Chul Ye* <br>
-[ICLR, 2023] [[Paper](https://openreview.net/forum?id=H0gdPxSwkPb)] [[ArXiv](https://arxiv.org/pdf/2209.14566)] [[Github](https://openreview.net/forum?id=H0gdPxSwkPb)]
+[ICLR, 2023] [[Paper](https://openreview.net/forum?id=H0gdPxSwkPb)] [[ArXiv](https://arxiv.org/pdf/2209.14566)] [[Github](https://github.com/boahK/DARL)]
 
 **Self-Supervised Vessel Segmentation via Adversarial Learning** \
 *Yuxin Ma, Yang Hua, Hanming Deng, Tao Song, Hao Wang, Zhengui Xue, Heng Cao, Ruhui Ma, Haibing Guan* <br>
@@ -101,25 +101,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-**S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
-
-**S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
-
-
 <!--- Few-Shot Learning --->
 ## 🔍 Few-Shot Learning
 
@@ -140,11 +121,11 @@
 [ECCV, 2022] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_24)] [[Github](https://github.com/cvszusparkle/AAS-DCL_FSS)]
 
 **S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+*Cheng* <br>
 [ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
 
 **S** \
-*Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
+*Chengt* <br>
 [ECCV, 2020] [[Paper]()] [[ArXiv]()] [[Github]()]
 
 
