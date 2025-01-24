@@ -155,6 +155,55 @@
 ## 🔍 Foundation Models
 
 
+**SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model** \
+*Tassilo Wald, Saikat Roy, Gregor Koehler, Nico Disch, Maximilian Rouven Rokuss, Julius Holzschuh, David Zimmerer, and  Klaus Maier-Hein* <br>
+[MIDL, 203] [[Paper](https://openreview.net/forum?id=iilLHaINUW)] [[ArXiv](https://openreview.net/pdf?id=iilLHaINUW)] 
+
+**Segment anything model for medical image analysis: An experimental study** \
+*Maciej A. Mazurowski, Haoyu Dong, Hanxue Gu, Jichen Yang, Nicholas Konz, Yixin Zhang* <br>
+[MIA, 2023] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001780)] [[ArXiv](https://pdf.sciencedirectassets.com/272154/1-s2.0-S1361841523X0005X/1-s2.0-S1361841523001780/am.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA0aCXVzLWVhc3QtMSJGMEQCIEP3mfxH3CN2pFhsMvd7nOCtF81Xl5Hthm0dPqGbHZDjAiBvu%2Fixe1XsCurTHiaw2MrXVabeg%2Fh53%2BAuqNY2JJk3lyqzBQgVEAUaDDA1OTAwMzU0Njg2NSIMpFGTrjlI8U2ysTIiKpAFui6JXUBBkmDSucHQw4POX0cm6DJv2vYcSoYP8TAK5vkTlvl44bCyFR%2B8%2FZmqBkdGeRXIg8pYScqvKjAQR8HmQCyjeU9Si6PZoYqbBlZMUHAhYZbEVIPMCAUkm%2F6J3N3XSd5deiLjxFe3rOd0pL5Urs8RkUDihQakIxUL3rO04dPvxuCoQBKDQZdTzxhtO6t4rG%2BWYZaziKi5TSAUP79EE4Ai%2Blv9qofiQNXUtqIkOtke8dXcRthniQ3QAaFEhnYl5%2FI8NK8v7Fsrz7TdI%2F1vejEHq3n9X3Glzk%2BEFuRmjXL6iXCAw3qjMn8erOULkvgp%2BVtd6TPqDrWkCBUhSEECZgd%2Bw5VoBKtKjCUlDl7MDAfJ7jd5ii0xR%2BhowytHQl8bO92gcBj7oRTy3k8j0SmVeOJNvE8heJ0cHBDaWpATjZGLkKFHxST%2FYWkclhu1wDKicGDsvlvmaf7pIU%2BLj0ZrAKhgSaKLXr3v2DX%2BmKcsEdhwK4J5p5o7HdMd6BUwKxgg7ggZB8yjwGn9GXnpivzztByU4x1H8L0LbZLlwyhbCUQ4%2BDOsQstgBZ5Z5c1wwE%2BakYREpVChJY2phJpJQkrj8X4BuRkLDFYgYEOVDS6ND%2F785WNE8GPngDS4nQL66bTyg6hCiNOQN5DpdbvMsWS8m%2BPcsN4ltc%2BVR4CkycF5SKKxOZIrSOqtCbFrpaI7VCqKD23s45wQRP4osmqcBHeHKZ0t7soOe5eIJ7ey7OyCIDuf%2BuVR6PtnhXgCIeRl5a%2FW%2B8x21xIWOdBBgOSZ3de%2FNHamAGH3CzPqJyPNDeoPwlktnVHLrgH79%2Bf7se19ve2r4asRcJPrNIogZDVdV5w1eiMWz6lmxhDE%2BcbSEq2uVUQw44jOvAY6sgHFZ%2Bj8DuSpAin8iVN8VvWsHxXc4B4xb2lD0HZuPdNPp4unO9XwXw%2Bli3XZsyYjUsYyTKJ8HeOuBnQZxqKZk04JwdTQ0LdJI%2B%2Fazriso0icbl9r6NQ1%2BxRe0FeqhtOKiUYUuVXO7yfGmpsySUB%2BjaqObu2vOupqP93D%2FTgE5DGo7Og6SaY5mywRN9PHV2c1ZnM0v2nZeOkLNWE%2FpsmOvlYEfi2KI0D0KiMFjJZJE0gynY%2Fv&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250124T133527Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWDETTWG7%2F20250124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fdb624b779e1e91a3c0a7dcf4ec48697fb882a8ffad0865454446fae5842bd82&hash=6f4f0797ea0830a1a721b44243621275affa007690c59c43a294b868ba3f2d0e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1361841523001780&tid=pdf-d0e5648d-90dd-4ffe-b420-da49dba6a5c8&sid=97a4015c444cb848688b7fe7f1fbf3147b03gxrqb&type=client)] [[Github](https://github.com/mazurowski-lab/segment-anything-medical-evaluation)]
+
+
+**Segment Anything Model for Medical Images?** \
+*Yuhao Huang, Xin Yang, Lian Liu et al.* <br>
+[MIA, 2024] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523003213)] [[ArXiv](https://arxiv.org/pdf/2304.14660)] [[Github](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images)]
+
+**Segment anything in medical images** \
+*Jun Ma, Yuting He, Feifei Li, Lin Han, Chenyu You, and Bo Wang* <br>
+[Nature C, 2024] [[Paper](https://www.nature.com/articles/s41467-024-44824-z)] [[ArXiv](https://www.nature.com/articles/s41467-024-44824-z.pdf)] [[Github](https://github.com/bowang-lab/MedSAM)]
+
+
+
+**S** \
+*Cheng* <br>
+[E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+**S** \
+*Chengt* <br>
+[E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+**S** \
+*Cheng* <br>
+[E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+**S** \
+*Chengt* <br>
+[E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+
+**S** \
+*Cheng* <br>
+[E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+**S** \
+*Chengt* <br>
+[E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]
+
+
+<!--- Theory --->
+## 🔍 Universal Models
+
+
 **S** \
 *Cheng* <br>
 [E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]
