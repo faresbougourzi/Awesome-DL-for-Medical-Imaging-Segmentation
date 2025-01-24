@@ -36,6 +36,8 @@
 *Yichi Zhang, Zhenrong Shen, and Rushi Jiao* <br>
 [CIBM, 2024] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482524003226)] [[ArXiv](https://arxiv.org/pdf/2401.03495)]
 
+
+<!---
 **U-Net ** \
 *Nahian Siddique, * <br>
 [IEEE Access, 2021] [[Paper]()] [[ArXiv]()]
@@ -49,7 +51,7 @@
 **U-Net ** \
 *Nahian Siddique, * <br>
 [IEEE Access, 2021] [[Paper]()] [[ArXiv]()]
-
+--->
 
 
 
@@ -241,14 +243,22 @@
 <!--- Theory --->
 ## 🔍 Universal Models
 
+**Tyche: Stochastic In-Context Learning for Medical Image Segmentation** \
+*Marianne Rakic, Hallee E. Wong, Jose Javier Gonzalez Ortiz, Beth A. Cimini, John V. Guttag, Adrian V. Dalca* <br>
+[CVPR, 2024] [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Rakic_Tyche_Stochastic_In-Context_Learning_for_Medical_Image_Segmentation_CVPR_2024_paper.html)] [[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Rakic_Tyche_Stochastic_In-Context_CVPR_2024_supplemental.pdf)] [[ArXiv](https://arxiv.org/abs/2401.13650)] [[Github](https://tyche.csail.mit.edu/)]
 
+**UniverSeg: Universal Medical Image Segmentation** \
+*Victor Ion Butoi, Jose Javier Gonzalez Ortiz, Tianyu Ma, Mert R. Sabuncu, John Guttag, and Adrian V. Dalca* <br>
+[ICCV, 2023] [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Butoi_UniverSeg_Universal_Medical_Image_Segmentation_ICCV_2023_paper.html)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Butoi_UniverSeg_Universal_Medical_ICCV_2023_supplemental.pdf)] [[ArXiv](https://arxiv.org/abs/2304.06131)] [[Github](https://universeg.csail.mit.edu)]
+
+**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection** \
+*Jie Liu, Yixiao Zhang, Jie-Neng Chen et al.* <br>
+[ICCV, 2023] [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.html)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_CLIP-Driven_Universal_Model_ICCV_2023_supplemental.pdf)] [[Github](https://github.com/ljwztc/CLIP-Driven-Universal-Model)]
+
+<!---
 **S** \
 *Cheng* <br>
-[E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]
-
-**S** \
-*Chengt* <br>
-[E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]
+[E, 20] [[Paper]()] [[ArXiv]()] [[Github]()]--->
 
 
 
