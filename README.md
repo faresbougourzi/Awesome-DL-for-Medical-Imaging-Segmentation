@@ -127,7 +127,9 @@
 
 **Few Shot Medical Image Segmentation with Cross Attention Transformer** \
 *Yi Lin, Yufan Chen, Kwang-Ting Cheng, and Hao Chen* <br>
-[MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_22)] [[ArXiv](https://arxiv.org/pdf/2303.13867)] [[Github](https://github.com/hust-linyi/CAT-Net)]
+[MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_22
+        
+        )] [[ArXiv](https://arxiv.org/pdf/2303.13867)] [[Github](https://github.com/hust-linyi/CAT-Net)]
 
 **Anomaly detection-inspired few-shot medical image segmentation through self-supervision with supervoxels** \
 *Stine Hansen, Srishti Gautam, Robert Jenssen, Michael Kampffmeyer* <br>
@@ -136,7 +138,9 @@
 
 **Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation** \
 *Huisi Wu, Fangyan Xiao, and Chongxin Liang* <br>
-[ECCV, 2022] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_24)] [[Github](https://github.com/cvszusparkle/AAS-DCL_FSS)]
+[ECCV, 2022] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_24
+        
+        )] [[Github](https://github.com/cvszusparkle/AAS-DCL_FSS)]
 
 **Recurrent Mask Refinement for Few-Shot Medical Image Segmentation** \
 *Hao Tang, Xingwei Liu, Shanlin Sun, Xiangyi Yan, and Xiaohui Xie* <br>
@@ -148,7 +152,9 @@
 
 **Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation** \
 *Cheng Ouyang, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, and Daniel Rueckert* <br>
-[ECCV, 2020] [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58526-6_45)] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)]
+[ECCV, 2020] [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58526-6_45
+        
+        )] [[ArXiv](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)]
 
 
 
@@ -164,6 +170,10 @@
 **Segment anything in medical images** \
 *Jun Ma, Yuting He, Feifei Li, Lin Han, Chenyu You, and Bo Wang* <br>
 [Nature C, 2024] [[Paper](https://www.nature.com/articles/s41467-024-44824-z)] [[ArXiv](https://www.nature.com/articles/s41467-024-44824-z.pdf)] [[Github](https://github.com/bowang-lab/MedSAM)]
+
+**BiomedParse: A biomedical foundation model for image parsing of everything everywhere all at once** \
+*Theodore Zhao, Yu Gu, Jianwei Yang, Naoto Usuyama, Ho Hin Lee, Tristan Naumann, Jianfeng Gao, Angela Crabtree, B. Piening, Carlo Bifulco, Mu-Hsin Wei, Hoifung Poon, Sheng Wang* <br>
+[Nature Methods, 2024] [[Paper](https://www.nature.com/articles/s41592-024-02499-w)] [[ArXiv](https://arxiv.org/abs/2405.12971)] [[GitHub](https://github.com/microsoft/BiomedParse)] [[Hugging Face](https://huggingface.co/microsoft/BiomedParse)]
 
 **Segment Anything Model for Medical Images?** \
 *Yuhao Huang, Xin Yang, Lian Liu et al.* <br>
@@ -182,22 +192,31 @@
 *Cheng Chena, Juzheng Miaob, Dufan Wua et al.* <br>
 [MIA, 2024] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002354)] [[ArXiv](https://arxiv.org/pdf/2309.08842)] [[Github](https://github.com/cchen-cc/MA-SAM)]
 
-
 **FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images** \
 *Yiqing Shen, Jingxing Li, Xinyuan Shao, Blanca Inigo Romillo, Ankush Jindal, David Dreizin, and Mathias Unberath* <br>
-[MICCAI, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_51)] [[ArXiv](https://arxiv.org/pdf/2403.09827)] [[Github](https://github.com/arcadelab/FastSAM3D)]
+[MICCAI, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_51
+        
+        )] [[ArXiv](https://arxiv.org/pdf/2403.09827)] [[Github](https://github.com/arcadelab/FastSAM3D)]
 
 **S-SAM: SVD-Based Fine-Tuning of Segment Anything Model for Medical Image Segmentation** \
 *Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula, and Vishal M. Patel* <br>
-[MICCAI, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_67)] [[ArXiv](https://arxiv.org/pdf/2408.06447)] [[Github](https://github.com/JayParanjape/SVDSAM)]
+[MICCAI, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_67
+        
+        )] [[ArXiv](https://arxiv.org/pdf/2408.06447)] [[Github](https://github.com/JayParanjape/SVDSAM)]
 
 **SAM-Med3D: Towards General-purpose Segmentation Models for Volumetric Medical Images** \
 *Haoyu Wang, Sizheng Guo, Jin Ye et al.* <br>
 [arXiv, 2024] [[ArXiv](https://arxiv.org/abs/2310.15161)] [[Github](https://github.com/uni-medical/SAM-Med3D)]
 
+**M4oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts** \
+*Yufeng Jiang and Yiqing Shen* <br>
+[MICCAI, 2024] [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-72390-2_58)] [[GitHub](https://github.com/jefferyjiang-yf/m4oe)]
+
 **AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation** \
 *Jay N. Paranjape, Nithin Gopalakrishnan Nair, Shameema Sikder, S. Swaroop Vedula, and Vishal M. Patel * <br>
-[ACMIUA, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-66958-3_14)] [[ArXiv](https://arxiv.org/pdf/2308.03726)] [[Github](https://github.com/JayParanjape/biastuning)]
+[ACMIUA, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-66958-3_14
+        
+        )] [[ArXiv](https://arxiv.org/pdf/2308.03726)] [[Github](https://github.com/JayParanjape/biastuning)]
 
 **SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model** \
 *Tassilo Wald, Saikat Roy, Gregor Koehler, Nico Disch, Maximilian Rouven Rokuss, Julius Holzschuh, David Zimmerer, and  Klaus Maier-Hein* <br>
