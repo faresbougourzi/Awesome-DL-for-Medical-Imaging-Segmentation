@@ -161,6 +161,10 @@
 *Wenhui Lei, Xu Wei, Xiaofan Zhang, Kang Li, and Shaoting Zhang* <br>
 [MIA, 2025] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002950)][[ArXiv](https://arxiv.org/abs/2306.14752)] [[Github](https://github.com/openmedlab/MedLSAM)]
 
+**Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation** \
+*Junde Wu, Wei Ji, Yuanpei Liu, Huazhu Fu, Min Xu, Yanwu Xu, and Yueming Jin* <br>
+[MIA, 2025] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841525000945)][[ArXiv](https://arxiv.org/abs/2304.12620)] [[Github](https://github.com/SuperMedIntel/Medical-SAM-Adapter)]
+
 **Segment anything in medical images** \
 *Jun Ma, Yuting He, Feifei Li, Lin Han, Chenyu You, and Bo Wang* <br>
 [Nature C, 2024] [[Paper](https://www.nature.com/articles/s41467-024-44824-z)] [[ArXiv](https://www.nature.com/articles/s41467-024-44824-z.pdf)] [[Github](https://github.com/bowang-lab/MedSAM)]
@@ -227,11 +231,6 @@
 **3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation** \
 *Shizhan Gong, Yuan Zhong, Wenao Ma, Jinpeng Li, Zhao Wang, Jingyang Zhang, Pheng-Ann Heng, and Qi Dou* <br>
 [arxiv, 2024] [[ArXiv](https://arxiv.org/pdf/2306.13465)] [[Github](https://github.com/med-air/3DSAM-adapter)]
-
-
-**Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation** \
-*Junde Wu, Wei Ji, Yuanpei Liu, Huazhu Fu, Min Xu, Yanwu Xu, and Yueming Jin* <br>
-[arXiv, 2023] [[ArXiv](https://arxiv.org/abs/2304.12620)] [[Github](https://github.com/SuperMedIntel/Medical-SAM-Adapter)]
 
 **Segment Anything Model for Semi-supervised Medical Image Segmentation via Selecting Reliable Pseudo-labels** \
 *Ning Li, Lianjin Xiong, Wei Qiu, Yudong Pan, Yiqian Luo, and Yangsong Zhang* <br>
