@@ -256,7 +256,25 @@
 
 **Med3d: Transfer learning for 3d medical image analysis** \
 *Sihong Chen, Kai Ma, Yefeng Zheng* <br>
-[arXiv, 2023] [[ArXiv](https://arxiv.org/pdf/1904.00625)] [[Github](https://github.com/Tencent/MedicalNet)]
+[arXiv, 2019] [[ArXiv](https://arxiv.org/pdf/1904.00625)] [[Github](https://github.com/Tencent/MedicalNet)]
+
+
+**Multi-organ segmentation over partially labeled datasets with multi-scale feature abstraction** \
+*Xi Fang, Pingkun Yan* <br>
+[TMI, 2020] [[Paper](https://ieeexplore.ieee.org/abstract/document/9112221?casa_token=-otyj5WTaugAAAAA:0Nc5CQ98wVZt8dXMfjvSvurDcjeSR4Gna0hFoshaCuvGswYbdmIsCeLyfhzLswIW2x7zhIW1Myug)] [[Github](https://github.com/DIAL-RPI/PIPO-FAN)]
+
+**DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets** \
+*Jianpeng Zhang, Yutong Xie, Yong Xia, Chunhua Shen* <br>
+[CVPR, 2021] [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_DoDNet_Learning_To_Segment_Multi-Organ_and_Tumors_From_Multiple_Partially_CVPR_2021_paper.html)] [[Github](https://git.io/DoDNet)]
+
+**UniSeg: A prompt-driven universal segmentation model as well as a strong representation learner** \
+*Yiwen Ye, Yutong Xie, Jianpeng Zhang, Ziyang Chen, Yong Xia* <br>
+[MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_49)] [[Github](https://github.com/yeerwen/UniSeg)]
+
+**MultiTalent: A multi-dataset approach to medical image segmentation** \
+*Constantin Ulrich, Fabian Isensee, Tassilo Wald, Maximilian Zenk, Michael Baumgartner, Klaus H. Maier-Hein* <br>
+[MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_62)] [[ArXiv](https://arxiv.org/pdf/2303.14444)] [[Github](https://github.com/MIC-DKFZ/MultiTalent)]
+
 
 <!---
 **S** \
