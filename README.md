@@ -58,6 +58,11 @@
 <!--- Theory --->
 ## 🔍 Generative Models
 
+
+**Generative AI enables medical image segmentation in ultra low-data regimes** \
+*Boah Kim, Yujin Oh, Bradford J. Wood, Ronald M. Summers, and Jong Chul Ye* <br>
+[Nat. Comm., 2025][[Paper](https://www.nature.com/articles/s41467-025-61754-6)][[Supp.](https://assets-eu.researchsquare.com/files/rs-4982456/v1_covered_0427f579-c234-4947-8285-9af054505576.pdf?c=1752563162 )]
+
 **C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation** \
 *Boah Kim, Yujin Oh, Bradford J. Wood, Ronald M. Summers, and Jong Chul Ye* <br>
 [MIA, 2024] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002827)] [[ArXiv](https://arxiv.org/pdf/2308.00193)] [[Github](https://github.com/boahK/MEDIA_CDARL)]
