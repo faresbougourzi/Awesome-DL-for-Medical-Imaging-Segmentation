@@ -242,38 +242,9 @@
 <!--- Theory --->
 ## 🔍 Universal Models
 
-**Tyche: Stochastic In-Context Learning for Medical Image Segmentation** \
-*Marianne Rakic, Hallee E. Wong, Jose Javier Gonzalez Ortiz, Beth A. Cimini, John V. Guttag, Adrian V. Dalca* <br>
-[CVPR, 2024] [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Rakic_Tyche_Stochastic_In-Context_Learning_for_Medical_Image_Segmentation_CVPR_2024_paper.html)] [[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Rakic_Tyche_Stochastic_In-Context_CVPR_2024_supplemental.pdf)] [[ArXiv](https://arxiv.org/abs/2401.13650)] [[Github](https://tyche.csail.mit.edu/)]
-
-**UniverSeg: Universal Medical Image Segmentation** \
-*Victor Ion Butoi, Jose Javier Gonzalez Ortiz, Tianyu Ma, Mert R. Sabuncu, John Guttag, and Adrian V. Dalca* <br>
-[ICCV, 2023] [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Butoi_UniverSeg_Universal_Medical_Image_Segmentation_ICCV_2023_paper.html)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Butoi_UniverSeg_Universal_Medical_ICCV_2023_supplemental.pdf)] [[ArXiv](https://arxiv.org/abs/2304.06131)] [[Github](https://universeg.csail.mit.edu)]
-
-**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection** \
-*Jie Liu, Yixiao Zhang, Jie-Neng Chen et al.* <br>
-[ICCV, 2023] [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.html)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_CLIP-Driven_Universal_Model_ICCV_2023_supplemental.pdf)] [[Github](https://github.com/ljwztc/CLIP-Driven-Universal-Model)]
-
-**Med3d: Transfer learning for 3d medical image analysis** \
-*Sihong Chen, Kai Ma, Yefeng Zheng* <br>
-[arXiv, 2019] [[ArXiv](https://arxiv.org/pdf/1904.00625)] [[Github](https://github.com/Tencent/MedicalNet)]
-
-
-**Multi-organ segmentation over partially labeled datasets with multi-scale feature abstraction** \
-*Xi Fang, Pingkun Yan* <br>
-[TMI, 2020] [[Paper](https://ieeexplore.ieee.org/abstract/document/9112221?casa_token=-otyj5WTaugAAAAA:0Nc5CQ98wVZt8dXMfjvSvurDcjeSR4Gna0hFoshaCuvGswYbdmIsCeLyfhzLswIW2x7zhIW1Myug)] [[Github](https://github.com/DIAL-RPI/PIPO-FAN)]
-
-**DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets** \
-*Jianpeng Zhang, Yutong Xie, Yong Xia, Chunhua Shen* <br>
-[CVPR, 2021] [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_DoDNet_Learning_To_Segment_Multi-Organ_and_Tumors_From_Multiple_Partially_CVPR_2021_paper.html)] [[Github](https://git.io/DoDNet)]
-
-**UniSeg: A prompt-driven universal segmentation model as well as a strong representation learner** \
-*Yiwen Ye, Yutong Xie, Jianpeng Zhang, Ziyang Chen, Yong Xia* <br>
-[MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_49)] [[Github](https://github.com/yeerwen/UniSeg)]
-
-**MultiTalent: A multi-dataset approach to medical image segmentation** \
-*Constantin Ulrich, Fabian Isensee, Tassilo Wald, Maximilian Zenk, Michael Baumgartner, Klaus H. Maier-Hein* <br>
-[MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_62)] [[ArXiv](https://arxiv.org/pdf/2303.14444)] [[Github](https://github.com/MIC-DKFZ/MultiTalent)]
+**Show and Segment: Universal Medical Image Segmentation via In-Context Learning** \
+*Yunhe Gao, Di Liu, Zhuowei Li, Yunsheng Li, Dongdong Chen, Mu Zhou, Dimitris N. Metaxas* <br>
+[CVPR, 2025] [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_Show_and_Segment_Universal_Medical_Image_Segmentation_via_In-Context_Learning_CVPR_2025_paper.html)] 
 
 **ICL-SAM: Synergizing in-context learning model and SAM in medical image segmentation** \
 *Jiesi Hu, Jiesi_Hu1, Yang Shang, Yanwu Yang, Xutao Guo, Hanyang Peng, Ting Ma* <br>
@@ -283,9 +254,42 @@
 *Chenwei Wu, David Restrepo, Zitao Shuai, Zhongming Liu, Liyue Shen* <br>
 [MICCAI, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_25)] [[ArXiv](https://arxiv.org/pdf/2407.11188)] 
 
-**Show and Segment: Universal Medical Image Segmentation via In-Context Learning** \
-*Yunhe Gao, Di Liu, Zhuowei Li, Yunsheng Li, Dongdong Chen, Mu Zhou, Dimitris N. Metaxas* <br>
-[CVPR, 2025] [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_Show_and_Segment_Universal_Medical_Image_Segmentation_via_In-Context_Learning_CVPR_2025_paper.html)] 
+**Tyche: Stochastic In-Context Learning for Medical Image Segmentation** \
+*Marianne Rakic, Hallee E. Wong, Jose Javier Gonzalez Ortiz, Beth A. Cimini, John V. Guttag, Adrian V. Dalca* <br>
+[CVPR, 2024] [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Rakic_Tyche_Stochastic_In-Context_Learning_for_Medical_Image_Segmentation_CVPR_2024_paper.html)] [[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Rakic_Tyche_Stochastic_In-Context_CVPR_2024_supplemental.pdf)] [[ArXiv](https://arxiv.org/abs/2401.13650)] [[Github](https://tyche.csail.mit.edu/)]
+
+**UniSeg: A prompt-driven universal segmentation model as well as a strong representation learner** \
+*Yiwen Ye, Yutong Xie, Jianpeng Zhang, Ziyang Chen, Yong Xia* <br>
+[MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_49)] [[Github](https://github.com/yeerwen/UniSeg)]
+
+**MultiTalent: A multi-dataset approach to medical image segmentation** \
+*Constantin Ulrich, Fabian Isensee, Tassilo Wald, Maximilian Zenk, Michael Baumgartner, Klaus H. Maier-Hein* <br>
+[MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_62)] [[ArXiv](https://arxiv.org/pdf/2303.14444)] [[Github](https://github.com/MIC-DKFZ/MultiTalent)]
+
+**UniverSeg: Universal Medical Image Segmentation** \
+*Victor Ion Butoi, Jose Javier Gonzalez Ortiz, Tianyu Ma, Mert R. Sabuncu, John Guttag, and Adrian V. Dalca* <br>
+[ICCV, 2023] [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Butoi_UniverSeg_Universal_Medical_Image_Segmentation_ICCV_2023_paper.html)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Butoi_UniverSeg_Universal_Medical_ICCV_2023_supplemental.pdf)] [[ArXiv](https://arxiv.org/abs/2304.06131)] [[Github](https://universeg.csail.mit.edu)]
+
+**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection** \
+*Jie Liu, Yixiao Zhang, Jie-Neng Chen et al.* <br>
+[ICCV, 2023] [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.html)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_CLIP-Driven_Universal_Model_ICCV_2023_supplemental.pdf)] [[Github](https://github.com/ljwztc/CLIP-Driven-Universal-Model)]
+
+**DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets** \
+*Jianpeng Zhang, Yutong Xie, Yong Xia, Chunhua Shen* <br>
+[CVPR, 2021] [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_DoDNet_Learning_To_Segment_Multi-Organ_and_Tumors_From_Multiple_Partially_CVPR_2021_paper.html)] [[Github](https://git.io/DoDNet)]
+
+**Multi-organ segmentation over partially labeled datasets with multi-scale feature abstraction** \
+*Xi Fang, Pingkun Yan* <br>
+[TMI, 2020] [[Paper](https://ieeexplore.ieee.org/abstract/document/9112221?casa_token=-otyj5WTaugAAAAA:0Nc5CQ98wVZt8dXMfjvSvurDcjeSR4Gna0hFoshaCuvGswYbdmIsCeLyfhzLswIW2x7zhIW1Myug)] [[Github](https://github.com/DIAL-RPI/PIPO-FAN)]
+
+**Med3d: Transfer learning for 3d medical image analysis** \
+*Sihong Chen, Kai Ma, Yefeng Zheng* <br>
+[arXiv, 2019] [[ArXiv](https://arxiv.org/pdf/1904.00625)] [[Github](https://github.com/Tencent/MedicalNet)]
+
+
+
+
+
 
 
 
