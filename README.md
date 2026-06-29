@@ -230,7 +230,7 @@
 
 **3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation** \
 *Shizhan Gong, Yuan Zhong, Wenao Ma, Jinpeng Li, Zhao Wang, Jingyang Zhang, Pheng-Ann Heng, and Qi Dou* <br>
-[arxiv, 2024] [[ArXiv](https://arxiv.org/pdf/2306.13465)] [[Github](https://github.com/med-air/3DSAM-adapter)]
+[arXiv, 2024] [[ArXiv](https://arxiv.org/pdf/2306.13465)] [[Github](https://github.com/med-air/3DSAM-adapter)]
 
 **Segment Anything Model for Semi-supervised Medical Image Segmentation via Selecting Reliable Pseudo-labels** \
 *Ning Li, Lianjin Xiong, Wei Qiu, Yudong Pan, Yiqian Luo, and Yangsong Zhang* <br>
@@ -253,6 +253,10 @@
 **CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection** \
 *Jie Liu, Yixiao Zhang, Jie-Neng Chen et al.* <br>
 [ICCV, 2023] [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.html)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_CLIP-Driven_Universal_Model_ICCV_2023_supplemental.pdf)] [[Github](https://github.com/ljwztc/CLIP-Driven-Universal-Model)]
+
+**Med3d: Transfer learning for 3d medical image analysis** \
+*Sihong Chen, Kai Ma, Yefeng Zheng* <br>
+[arXiv, 2023] [[ArXiv](https://arxiv.org/pdf/1904.00625)] [[Github](https://github.com/Tencent/MedicalNet)]
 
 <!---
 **S** \
