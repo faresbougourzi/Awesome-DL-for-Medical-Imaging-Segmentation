@@ -275,6 +275,23 @@
 *Constantin Ulrich, Fabian Isensee, Tassilo Wald, Maximilian Zenk, Michael Baumgartner, Klaus H. Maier-Hein* <br>
 [MICCAI, 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_62)] [[ArXiv](https://arxiv.org/pdf/2303.14444)] [[Github](https://github.com/MIC-DKFZ/MultiTalent)]
 
+**ICL-SAM: Synergizing in-context learning model and SAM in medical image segmentation** \
+*Jiesi Hu, Jiesi_Hu1, Yang Shang, Yanwu Yang, Xutao Guo, Hanyang Peng, Ting Ma* <br>
+[MIDL, 2024] [[Paper](https://openreview.net/pdf?id=Y1BeK8dTno)]
+
+**Efficient in-context medical segmentation with meta-driven visual prompt selection** \
+*Chenwei Wu, David Restrepo, Zitao Shuai, Zhongming Liu, Liyue Shen* <br>
+[MICCAI, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_25)] [[ArXiv](https://arxiv.org/pdf/2407.11188)] 
+
+**Show and Segment: Universal Medical Image Segmentation via In-Context Learning** \
+*Yunhe Gao, Di Liu, Zhuowei Li, Yunsheng Li, Dongdong Chen, Mu Zhou, Dimitris N. Metaxas* <br>
+[CVPR, 2025] [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_Show_and_Segment_Universal_Medical_Image_Segmentation_via_In-Context_Learning_CVPR_2025_paper.html)] 
+
+
+
+
+
+
 
 <!---
 **S** \
