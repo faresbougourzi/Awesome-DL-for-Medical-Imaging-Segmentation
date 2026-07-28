@@ -63,6 +63,11 @@
 *Li Zhang, Basu Jindal, Ahmed Alaa, Robert Weinreb, David Wilson, Eran Segal, James Zou, and Pengtao Xie* <br>
 [Nat. Comm., 2025][[Paper](https://www.nature.com/articles/s41467-025-61754-6)][[Supp.](https://assets-eu.researchsquare.com/files/rs-4982456/v1_covered_0427f579-c234-4947-8285-9af054505576.pdf?c=1752563162 )]
 
+
+**DiffBoost: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model** \
+*Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Gorkem Durak, Elif Keles, Alpay Medetalibeyoglu, and Ulas Bagci* <br>
+[TMI, 2024] [[Paper](https://ieeexplore.ieee.org/abstract/document/10804854?casa_token=L2KJAUtUB0cAAAAA:YqWVY4pKFWUn8rIwsEnT_rqa5tavqRhAowZQKkqmkNugwRdzR6hlcC6d2V92IlPhPT2LS09sBBw1)] [[ArXiv](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10804854&casa_token=EvHLWATOFbwAAAAA:HDy3mmU1BGySle-hTml5e3rpKWKugEE_T6IoadQFX9AigXW2czhzo22fecewOmuFfX7a1QyOIH7N)] [[Github](https://github.com/NUBagciLab/DiffBoost)]
+
 **C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation** \
 *Boah Kim, Yujin Oh, Bradford J. Wood, Ronald M. Summers, and Jong Chul Ye* <br>
 [MIA, 2024] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002827)] [[ArXiv](https://arxiv.org/pdf/2308.00193)] [[Github](https://github.com/boahK/MEDIA_CDARL)]
