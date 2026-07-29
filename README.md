@@ -67,6 +67,10 @@
 *Kunpeng Qiu, Zhiqiang Gao, Zhiying Zhou, Mingjie Sun, Yongxin Guo* <br>
 [CVPR, 2025][[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Qiu_Noise-Consistent_Siamese-Diffusion_for_Medical_Image_Synthesis_and_Segmentation_CVPR_2025_paper.html)] [[ArXiv](https://openaccess.thecvf.com/content/CVPR2025/papers/Qiu_Noise-Consistent_Siamese-Diffusion_for_Medical_Image_Synthesis_and_Segmentation_CVPR_2025_paper.pdf)] [[Github](https://github.com/Qiukunpeng/Siamese-Diffusion)]
 
+**FairDiff: Fair Segmentation with Point-Image Diffusion** \
+*Wenyi Li, Haoran Xu, Guiyu Zhang, Huan-ang Gao, Mingju Gao, Mengyu Wang, and Hao Zhao* <br>
+[MICCAI, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_58)] [[ArXiv](https://arxiv.org/pdf/2407.06250?)] [[Github](https://github.com/wenyi-li/FairDiff)]
+
 
 **DiffBoost: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model** \
 *Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Gorkem Durak, Elif Keles, Alpay Medetalibeyoglu, and Ulas Bagci* <br>
