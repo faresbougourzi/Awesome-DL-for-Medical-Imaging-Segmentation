@@ -187,6 +187,10 @@
 *Jun Ma, Yuting He, Feifei Li, Lin Han, Chenyu You, and Bo Wang* <br>
 [Nature C, 2024] [[Paper](https://www.nature.com/articles/s41467-024-44824-z)] [[ArXiv](https://www.nature.com/articles/s41467-024-44824-z.pdf)] [[Github](https://github.com/bowang-lab/MedSAM)]
 
+**BiomedParse: A biomedical foundation model for image parsing of everything everywhere all at once** \
+*Theodore Zhao, Yu Gu, Jianwei Yang, Naoto Usuyama, Ho Hin Lee, Tristan Naumann, Jianfeng Gao, Angela Crabtree, B. Piening, Carlo Bifulco, Mu-Hsin Wei, Hoifung Poon, Sheng Wang* <br>
+[Nature Methods, 2024] [[Paper](https://www.nature.com/articles/s41592-024-02499-w)] [[ArXiv](https://arxiv.org/abs/2405.12971)] [[GitHub](https://github.com/microsoft/BiomedParse)] [[Hugging Face](https://huggingface.co/microsoft/BiomedParse)]
+
 **Segment Anything Model for Medical Images?** \
 *Yuhao Huang, Xin Yang, Lian Liu et al.* <br>
 [MIA, 2024] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523003213)] [[ArXiv](https://arxiv.org/pdf/2304.14660)] [[Github](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images)]
@@ -212,6 +216,10 @@
 **S-SAM: SVD-Based Fine-Tuning of Segment Anything Model for Medical Image Segmentation** \
 *Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula, and Vishal M. Patel* <br>
 [MICCAI, 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_67)] [[ArXiv](https://arxiv.org/pdf/2408.06447)] [[Github](https://github.com/JayParanjape/SVDSAM)]
+
+**M4oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts** \
+*Yufeng Jiang and Yiqing Shen* <br> 
+[MICCAI, 2024] [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-72390-2_58)] [[GitHub](https://github.com/jefferyjiang-yf/m4oe)]
 
 **SAM-Med3D: Towards General-purpose Segmentation Models for Volumetric Medical Images** \
 *Haoyu Wang, Sizheng Guo, Jin Ye et al.* <br>
