@@ -330,6 +330,16 @@
   journal={arXiv preprint arXiv:2505.09274},
   year={2025}
 }
+@article{bougourzi2026recent,
+  title={Recent Advances in Medical Imaging Segmentation: Generative, Few-Shot, Foundation and Universal Models},
+  author={Bougourzi, Fares and Hadid, Abdenour},
+  journal={ACM Computing Surveys},
+  volume={59},
+  number={2},
+  pages={1--38},
+  year={2026},
+  publisher={ACM, New York, NY}
+}
 ```
 
 
